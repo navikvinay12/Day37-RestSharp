@@ -1,0 +1,7 @@
+{
+"/employees/GetAllEmployee":"/employees",
+"/employees/GetId/:id":"/employees/:id",
+"/employees/AddEmployee":"/employees",
+"/employees/UpdateEmployee/:id":"/employees/:id",
+"/employees/DeleteEmployee/:id":"/employees/:id"
+}
